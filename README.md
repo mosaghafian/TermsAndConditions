@@ -1,0 +1,2 @@
+# termsandconditions
+TermsAndConditions for Campux
